@@ -87,12 +87,12 @@ Expandable-Solar-Panel/
 
 ### CAD Model
 
-![3D Model Render]*(images/3d-model-render.png)*
+*(![3D Model Render](images/3d-model-render.png))*
 
 ### 3D Printed Prototype
 
-![3D Printed Prototype]
-*(images/3d-printed-prototype.jpeg)*
+
+*(![3D Printed Prototype](images/3d-printed-prototype.jpeg))*
 
 ---
 
@@ -125,12 +125,6 @@ Mechatronics Engineering Student
 
 Interested in Robotics, Mechanism Design, Mechatronics, and Renewable Energy Systems.
 
-## 📸 Project Images
-
-### 3D Model Render
-
-
-### 3D Printed Prototype
 
 
 ---
