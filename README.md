@@ -87,12 +87,12 @@ Expandable-Solar-Panel/
 
 ### CAD Model
 
-*(![3D Model Render](images/3d-model-render.png))*
+*(![3D Model Render]images/3d-model-render.png)*
 
 ### 3D Printed Prototype
 
 
-*(![3D Printed Prototype](images/3d-printed-prototype.jpeg))*
+*(![3D Printed Prototype]images/3d-printed-prototype.jpeg)*
 
 ---
 
