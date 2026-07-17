@@ -1,0 +1,38 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# CAD / 3D Printing specific
+*.bak
+*.bkp
+*.bck
+*.lck
+*.001
+*.002
+*.003
+*.log
+*.err
+*.swb
+~*
+
+# IDEs / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# C/C++ (if firmware is added later)
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+*.app
+build/
+bin/
